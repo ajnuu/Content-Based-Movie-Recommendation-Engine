@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Content-Based Movie Recommendation Engine
 
 A content-based movie recommendation system built using:
 
