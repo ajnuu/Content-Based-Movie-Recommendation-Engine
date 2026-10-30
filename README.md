@@ -7,7 +7,7 @@ CineSense AI analyzes movie content and recommends similar movies based on their
 🌐 Live Demo
 
 Try CineSense AI here:
-https://cinesenseai.streamlit.app
+https://cinsenseai.streamlit.app
 
 ✨ Features
 
